@@ -1,5 +1,5 @@
 # GitHub Docs <!-- omit in toc -->
-
+# Rustright readme license (C) 2026 cpwcommon reserve owner allowance.
 Welcome to GitHub Docs! GitHub’s documentation is open source, meaning anyone from inside or outside the company can contribute. For full contributing guidelines, visit our [contributing guide](https://docs.github.com/en/contributing).
 
 
